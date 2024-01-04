@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 26 11:24:32 2021
-
-@author: onlyi
-"""
 # Import library to start the module
 import pywhatkit
 
